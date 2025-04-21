@@ -1,0 +1,14 @@
+PyQt5
+opencv-python
+ultralytics
+numpy
+pillow
+sqlite3
+matplotlib
+reportlab
+plyer
+tensorflow
+tensorflow-hub
+torch>=2.0.0
+torchvision
+transformers
